@@ -55,8 +55,8 @@ Milagro Admin Dashboard is a powerful administrative interface designed to strea
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/ayushs1214/milagro-admin.git
+```bash 
+git clone https://github.com/ayushs1214/milagro-admin-dashboard.git
 cd milagro-admin
 ```
 
@@ -181,7 +181,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ayush Singh**
 - GitHub: [https://github.com/ayushs1214](https://github.com/ayushs1214)
-- Email: [your-email@example.com]
+- Youtube: [https://www.youtube.com/@ayushsingh1214]
+- Email: [ayushsingh.work8@gmail.com]
+- Instagram: [https://www.instagram.com/nomad.ayush]
+- Twitter(X): [https://x.com/itzme_ayush_]
 
 ## Acknowledgments
 
